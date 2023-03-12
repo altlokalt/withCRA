@@ -1,0 +1,7 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/UrbanistSemiBold.ttf"); font-family : "Urbanist"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/UrbanistBold.ttf"); font-family : "Urbanist"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/UrbanistRegular.ttf"); font-family : "Urbanist"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/UrbanistMedium.ttf"); font-family : "Urbanist"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/UrbanistRomanSemiBold.ttf"); font-family : "Urbanist"; font-weight : 600;  }
